@@ -1,3 +1,3 @@
 # Droped-helper
 
-Droped helper is a Shell program that has some features (commands) that can help you with specific tasks on your Windows PC.
+Droped helper is a Shell program that has some features (commands) that can help you with specific tasks on your Windows Computer.
